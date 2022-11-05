@@ -6,7 +6,7 @@ import delimited "/Users/cc4878/Library/CloudStorage/OneDrive-Personal/文档/Fa
 
 est clear
 
-reg calledback eliteschoolcandidate
+reg calledback eliteschoolcandidate male candidate
 
 eststo regression_one
 
