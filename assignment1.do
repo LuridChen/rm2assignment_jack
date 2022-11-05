@@ -2,6 +2,8 @@
 cd "/Users/cc4878/Library/CloudStorage/OneDrive-Personal/文档/Fall 2022 Course Files/Research Methods/assignment"
 
 *read in files*
+clear
+
 import delimited "/Users/cc4878/Library/CloudStorage/OneDrive-Personal/文档/Fall 2022 Course Files/Research Methods/assignment/assignment1-research-methods.csv"
 
 est clear
